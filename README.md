@@ -198,11 +198,11 @@ CardioCheck/
 ├── render.yaml
 ├── README.md
 ├── .gitignore
-├── templates/
-│   └── index.html
 └── static/
+    ├── index.html
     ├── style.css
     └── script.js
+
 ```
 
 *The structure above assumes the standard project layout used for deployment.*
