@@ -212,7 +212,7 @@ CardioCheck/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CardioCheck-AI.git
+git clone https://github.com/atharav909-ship-it/CardioCheck--Heart-Disease-Prediction-Model
 cd CardioCheck-AI
 ```
 
